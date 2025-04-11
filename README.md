@@ -29,5 +29,4 @@ Local Regression
 | The Woman in the Yard    | 5.22               |
 
 ## Code Files
-Exploratory-Data-Analysis.R - Code for Exploratory Data Analysis on the training dataset.
-Model-Selection-and-Prediction.R - Code for model selection and prediction on the testing dataset.
+ModelTesting_code - Code for data exploratory, model selection and prediction on the testing dataset.
